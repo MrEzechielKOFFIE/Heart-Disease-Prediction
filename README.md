@@ -5,7 +5,7 @@ Les maladies cardiovasculaires (MCV) sont la première cause de décès dans le 
 
 Les personnes atteintes de maladies cardiovasculaires ou à haut risque cardiovasculaire (en raison de la présence d'un ou plusieurs facteurs de risque tels que l'hypertension, le diabète, l'hyperlipidémie ou une maladie déjà établie) ont besoin d'une détection et d'une prise en charge précoces dans lesquelles un modèle d'apprentissage automatique peut être d'une grande aide. 
 
-En tant que Data Scientist votre mission, si vous l'acceptez, est de **produire un modèle efficace pour prédire si un patient est ateint de la maladie cardiaque ou pas en suivant toutes les étapes nécessaires**: analyse exploiratoire qui permettra de choisir les variables pertinentes, l'encodage des variables,la matrice des correlations, utilisation des box plots pour la détections des outliers, la distribution des variables, la normalisation des variables, le test sur plusieurs modèles etc...
+Notre mission est de **produire un modèle efficace pour prédire si un patient est ateint de la maladie cardiaque ou pas en suivant toutes les étapes nécessaires**: analyse exploiratoire qui permettra de choisir les variables pertinentes, l'encodage des variables,la matrice des correlations, utilisation des box plots pour la détections des outliers, la distribution des variables, la normalisation des variables, le test sur plusieurs modèles etc...
 
 
 **Variables**
